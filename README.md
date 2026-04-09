@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stability Team Technical Test
 
 This repository contains a simple Task Manager API built with Go and Fiber.
@@ -42,3 +43,7 @@ Submit a GitHub repository containing:
   - what issues you found
   - how you fixed them
   - what improvement you added
+=======
+# stability-task
+Sebuah REST API Task Manager sederhana yang berfungsi untuk mengelola daftar tugas
+>>>>>>> 14f1486b4faf1f6da3b37c3c38b8bf493119ec87
